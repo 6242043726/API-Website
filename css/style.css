@@ -1,0 +1,13 @@
+body{
+    font-family: 'Prompt', sans-serif;
+}
+
+.color-custom {
+    background: linear-gradient(15deg, #009FFF 0%, #ec2F4B 100%);
+    }
+
+
+.text-small {
+    font-size: 85%;
+}
+
